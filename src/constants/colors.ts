@@ -1,0 +1,27 @@
+const COLOR = {
+  PRIMARY: '#7e3c6f',
+  PRIMARY_O2: 'rgba(126, 60, 111, 0.2)',
+  PRIMARY_200: '#E0C4CD',
+  PRIMARY_400: '#B25271',
+  PRIMARY_400_O2: 'rgba(178, 82, 113, 0.2)',
+  GRAY_600: '#D9D9D9',
+  GRAY_800: '#C7C6C6',
+  GRAY_400: '#E8E7E7',
+  PRIMARY_LINEAR_UP: '#F9D9E3',
+  PRIMARY_LINEAR_DOWN: '#F9F2E7',
+  BLACK_500: '#35373F',
+  WHITE: '#ffffff',
+  WHITE_200: '#ebe7e7',
+  WHITE_O2: 'rgba(255, 255, 255, 0.2)',
+  WHITE_O6: 'rgba(255, 255, 255, 0.6)',
+  WHITE_O8: 'rgba(255, 255, 255, 0.8)',
+  YELLOW: '#f3c074',
+  YELLOW_O2: 'rgba(243, 192, 116, 0.2)',
+  BLUE: '#61BBFE',
+  BLUE_200: '#C8E3F7',
+  GREEN: '#25D366',
+  GREEN_200: '#B6EACA',
+  RED: '#e21616',
+};
+
+export default COLOR;
